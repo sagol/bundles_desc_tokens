@@ -9,13 +9,4 @@ The data was collected to test various Machine learning (ML) for natural languag
 
 Also in one file at https://www.kaggle.com/sagol79/stemmed-description-tokens-and-application-genres
 
-@misc{https://doi.org/10.34740/KAGGLE/DSV/2086050,
-  doi = {10.34740/KAGGLE/DSV/2086050},
-  url = {https://www.kaggle.com/sagol79/stemmed-description-tokens-and-application-genres},
-  author = {{Taras Baranyuk} and {Ilia Varvaluk}},
-  keywords = {classification, nlp, text data, text mining, multilabel classification},
-  language = {en},
-  title = {Stemmed description tokens and application genres},
-  publisher = {KAGGLE},
-  year = {2021}
-} 
+DOI: [10.34740/KAGGLE/DSV/2086050](https://doi.org/10.34740/KAGGLE/DSV/2086050)
